@@ -30,13 +30,13 @@
          "KC_TRNS"     , "KC_TRNS"
         ],
         ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_MINS"       , "KC_BSLS",
-         "KC_PSCR"     , "KC_SCRL"     , "KC_PGUP"        , "KC_PAUS"       , "KC_QUOT",
+         "KC_PSCR"     , "KC_SCRL"     , "KC_PGUP"        , "KC_PAUS"       , "KC_LBRC",
 
          "KC_TRNS"     , "KC_TRNS"     , "KC_NO"          , "KC_HASH"       , "KC_AT",
          "KC_LEFT"     , "KC_DOWN"     , "KC_UP"          , "KC_RGHT"       , "KC_SCLN",
 
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_GRV"        , "KC_EQL",
-         "KC_CAPS"     , "KC_HOME"     , "KC_PGDN"        , "KC_END"        , "KC_LBRC",
+         "KC_CAPS"     , "KC_HOME"     , "KC_PGDN"        , "KC_END"        , "KC_QUOT",
 
          "KC_TRNS"     , "KC_TRNS",
          "KC_TRNS"     , "KC_TRNS"
